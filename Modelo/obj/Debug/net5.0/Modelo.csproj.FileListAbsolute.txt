@@ -1,0 +1,48 @@
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\bin\Debug\net5.0\Modelo.deps.json
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\bin\Debug\net5.0\Modelo.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\bin\Debug\net5.0\ref\Modelo.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\bin\Debug\net5.0\Modelo.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\obj\Debug\net5.0\Modelo.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Modelo\obj\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Desktop\Virtual\Modelo\bin\Debug\net5.0\Modelo.deps.json
+C:\Users\aules\Desktop\Virtual\Modelo\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Desktop\Virtual\Modelo\bin\Debug\net5.0\ref\Modelo.dll
+C:\Users\aules\Desktop\Virtual\Modelo\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Desktop\Virtual\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\aules\Desktop\Virtual\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Desktop\Virtual\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\aules\Desktop\Virtual\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+C:\Users\aules\Desktop\Virtual\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\aules\Desktop\Virtual\Modelo\obj\Debug\net5.0\Modelo.dll
+C:\Users\aules\Desktop\Virtual\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+C:\Users\aules\Desktop\Virtual\Modelo\obj\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\bin\Debug\net5.0\Modelo.deps.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\bin\Debug\net5.0\ref\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\obj\Debug\net5.0\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Modelo\obj\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\bin\Debug\net5.0\Modelo.deps.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\bin\Debug\net5.0\ref\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\obj\Debug\net5.0\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Modelo\obj\Debug\net5.0\Modelo.pdb

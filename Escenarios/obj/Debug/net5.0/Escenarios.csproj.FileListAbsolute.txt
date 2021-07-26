@@ -1,0 +1,60 @@
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.deps.json
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\bin\Debug\net5.0\ref\Escenarios.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\bin\Debug\net5.0\Modelo.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\bin\Debug\net5.0\Modelo.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.AssemblyReference.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfoInputs.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfo.cs
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CoreCompileInputs.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CopyComplete
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\obj\Debug\net5.0\ref\Escenarios.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.pdb
+C:\Users\aules\Desktop\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.deps.json
+C:\Users\aules\Desktop\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.dll
+C:\Users\aules\Desktop\Virtual\Escenarios\bin\Debug\net5.0\ref\Escenarios.dll
+C:\Users\aules\Desktop\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\aules\Desktop\Virtual\Escenarios\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Desktop\Virtual\Escenarios\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Desktop\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.AssemblyReference.cache
+C:\Users\aules\Desktop\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Desktop\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfoInputs.cache
+C:\Users\aules\Desktop\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfo.cs
+C:\Users\aules\Desktop\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CoreCompileInputs.cache
+C:\Users\aules\Desktop\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CopyComplete
+C:\Users\aules\Desktop\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.dll
+C:\Users\aules\Desktop\Virtual\Escenarios\obj\Debug\net5.0\ref\Escenarios.dll
+C:\Users\aules\Desktop\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.deps.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\bin\Debug\net5.0\ref\Escenarios.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.AssemblyReference.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfoInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfo.cs
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CoreCompileInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CopyComplete
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\obj\Debug\net5.0\ref\Escenarios.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Escenarios\obj\Debug\net5.0\Escenarios.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\bin\Debug\net5.0\Escenarios.deps.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\bin\Debug\net5.0\Escenarios.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\bin\Debug\net5.0\ref\Escenarios.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.csproj.AssemblyReference.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfoInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.AssemblyInfo.cs
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CoreCompileInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.csproj.CopyComplete
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\obj\Debug\net5.0\ref\Escenarios.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Escenarios\obj\Debug\net5.0\Escenarios.pdb

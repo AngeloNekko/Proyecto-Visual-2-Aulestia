@@ -1,0 +1,310 @@
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Virtual.exe
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Virtual.deps.json
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.json
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.dev.json
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Virtual.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\ref\Virtual.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Virtual.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Modelo.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Modelo.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.AssemblyReference.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\obj\Debug\net5.0\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfoInputs.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfo.cs
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.CopyComplete
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\obj\Debug\net5.0\Virtual.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\obj\Debug\net5.0\ref\Virtual.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\obj\Debug\net5.0\Virtual.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\obj\Debug\net5.0\Virtual.genruntimeconfig.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Escenarios.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Persistencia.dll.config
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\Virtual.dll.config
+C:\Users\Luis Cajas\source\repos\Virtual\Virtual\bin\Debug\net5.0\ef.dll.config
+C:\Users\aules\Desktop\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.AssemblyReference.cache
+C:\Users\aules\Desktop\Virtual\Virtual\obj\Debug\net5.0\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Desktop\Virtual\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfoInputs.cache
+C:\Users\aules\Desktop\Virtual\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfo.cs
+C:\Users\aules\Desktop\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\aules\Desktop\Virtual\Virtual\obj\Debug\net5.0\Virtual.dll
+C:\Users\aules\Desktop\Virtual\Virtual\obj\Debug\net5.0\ref\Virtual.dll
+C:\Users\aules\Desktop\Virtual\Virtual\obj\Debug\net5.0\Virtual.pdb
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\ef.dll.config
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Virtual.exe
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Virtual.dll.config
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Virtual.deps.json
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.json
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.dev.json
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Virtual.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\ref\Virtual.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Virtual.pdb
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Npgsql.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Escenarios.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Persistencia.dll
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\aules\Desktop\Virtual\Virtual\bin\Debug\net5.0\Persistencia.dll.config
+C:\Users\aules\Desktop\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.CopyComplete
+C:\Users\aules\Desktop\Virtual\Virtual\obj\Debug\net5.0\Virtual.genruntimeconfig.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\ef.dll.config
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Virtual.exe
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Virtual.dll.config
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Virtual.deps.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.dev.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Virtual.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\ref\Virtual.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Virtual.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Npgsql.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Escenarios.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Persistencia.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Persistencia.dll.config
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.AssemblyReference.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\obj\Debug\net5.0\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfoInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfo.cs
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\obj\Debug\net5.0\Virtual.csproj.CopyComplete
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\obj\Debug\net5.0\Virtual.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\obj\Debug\net5.0\ref\Virtual.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\obj\Debug\net5.0\Virtual.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\obj\Debug\net5.0\Virtual.genruntimeconfig.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Infor.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Virtual\bin\Debug\net5.0\Infor.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\obj\Debug\net5.0\Virtual.csproj.AssemblyReference.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\obj\Debug\net5.0\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfoInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\obj\Debug\net5.0\Virtual.AssemblyInfo.cs
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\obj\Debug\net5.0\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\obj\Debug\net5.0\Virtual.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\obj\Debug\net5.0\ref\Virtual.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\obj\Debug\net5.0\Virtual.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\ef.dll.config
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Virtual.exe
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Virtual.dll.config
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Virtual.deps.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Virtual.runtimeconfig.dev.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Virtual.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\ref\Virtual.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Virtual.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Npgsql.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Escenarios.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Persistencia.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Escenarios.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\bin\Debug\net5.0\Persistencia.dll.config
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\obj\Debug\net5.0\Virtual.csproj.CopyComplete
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Virtual\obj\Debug\net5.0\Virtual.genruntimeconfig.cache

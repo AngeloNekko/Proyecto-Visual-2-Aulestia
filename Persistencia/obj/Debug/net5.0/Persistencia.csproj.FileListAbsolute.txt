@@ -1,0 +1,80 @@
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.dll.config
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\bin\Debug\net5.0\Modelo.dll
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\bin\Debug\net5.0\Modelo.pdb
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\Luis Cajas\source\repos\Virtual\Persistencia\bin\Debug\net5.0\ef.dll.config
+C:\Users\aules\Desktop\Virtual\Persistencia\bin\Debug\net5.0\ef.dll.config
+C:\Users\aules\Desktop\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.dll.config
+C:\Users\aules\Desktop\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\aules\Desktop\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\aules\Desktop\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\aules\Desktop\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\aules\Desktop\Virtual\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\aules\Desktop\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\aules\Desktop\Virtual\Persistencia\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Desktop\Virtual\Persistencia\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Desktop\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\aules\Desktop\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Desktop\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\aules\Desktop\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\aules\Desktop\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\aules\Desktop\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\aules\Desktop\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\aules\Desktop\Virtual\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\aules\Desktop\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\aules\Desktop\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\bin\Debug\net5.0\ef.dll.config
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.dll.config
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Virtual\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\bin\Debug\net5.0\ef.dll.config
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\bin\Debug\net5.0\Persistencia.dll.config
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\bin\Debug\net5.0\Modelo.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\bin\Debug\net5.0\Modelo.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\aules\Documents\ITQ\Programacion visual 2\Proyecto\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
